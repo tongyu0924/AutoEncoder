@@ -9,4 +9,4 @@ AutoEncoder - test
 
 result:
 
-![image](https://user-images.githubusercontent.com/119610311/210846480-fd8d93c6-031d-4c42-ab6c-fcab95184354.png)
+![image](https://user-images.githubusercontent.com/119610311/210849572-0fdf2acc-0193-44f2-82f8-f040fe3c9e6e.png)
